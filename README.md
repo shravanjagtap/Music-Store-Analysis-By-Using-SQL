@@ -10,8 +10,6 @@ Extract useful insights for business strategy and marketing campaigns.
 📂 Project Structure
 The project can be structured as follows:
 
-pgsql
-Copy
 Edit
 📦 Music-Store-Analysis
  ┣ 📜 README.md
@@ -28,16 +26,15 @@ The analysis covers two question sets (Easy & Moderate).
 
 🔹 Question Set 1 - Easy
 1️⃣ Senior-most Employee:
-
 The highest-ranking employee based on job title.
+
 2️⃣ Countries with Most Invoices:
-
 Analyzing invoice count per country to determine top markets.
+
 3️⃣ Top 3 Invoice Values:
-
 Extracting highest order values to understand purchasing behavior.
-4️⃣ Best Customer City (Revenue-based):
 
+4️⃣ Best Customer City (Revenue-based):
 Identifying which city generates the most revenue for a promotional event.
 5️⃣ Best Customer (Highest Spending):
 
